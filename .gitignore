@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+canvas_output/
+chroma_db/
+.ipynb_checkpoints/
+.DS_Store
